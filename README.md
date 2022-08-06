@@ -9,7 +9,7 @@ I'm also a Freelance consultant, so don't hesitate to reach out for collaboratio
 - 👯 I’m looking to collaborate on content creation, open source projects, and freelance work.
 - 💬 Ask me about anything, I'm happy to help, and I'm always open to new ideas.
 - 📫 How to reach me: [Twitter](https://twitter.com/FrenchTechLead), [LinkedIn](https://www.linkedin.com/in/techlead-java-angular/), [YouTube](https://www.youtube.com/channel/UCBTwp0DPgh6OICURH4OyAEQ), [Blog](https://frenchtechlead.com).
-- ⚡ Fun fact: most of french people don't eat snails 🐌
+- ⚡ Fun fact: most of french 🇫🇷 people don't eat snails 🐌
 
 <h2>Find me at these places</h2>
   <a
@@ -87,4 +87,19 @@ I'm also a Freelance consultant, so don't hesitate to reach out for collaboratio
 
 
 
+## Showcase
+### bienparler.fr
+bienparler.fr is a french 🇫🇷 website where you can entrer simple sentences and get alternave ones suited for a more formal context.
+[!["bienparler.fr"](img/screenshots/0.png)](https://bienparler.fr)
 
+### frenchtechlead.com
+frenchtechlead.com is my blog where I write about software engineering, tech lead, and other topics.
+[!["frenchtechlead.com"](img/screenshots/1.png)](https://frenchtechlead.com)
+ 
+### HTTP-SNITCH
+HTTP-SNITCH is a mini HTTP server that prints out every requests that it receives, it's useful for debugging ann kinds of HTTP clients and reverse proxies/ load balancers.
+[!["HTTP-SNITCH"](img/screenshots/2.png)](https://github.com/FrenchTechLead/http-snitch)
+
+### Robusta
+Robusta is a basic programming language based on java, it was designed for learning the basics of software programming without the hasle of the advanced principles and hard configurations, it's being thought in a french 🇫🇷 university UPEC.
+[!["Robusta"](img/screenshots/3.png)](https://github.com/FrenchTechLead/robusta)
