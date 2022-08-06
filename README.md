@@ -1,5 +1,5 @@
 ![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FFrenchTechLead)
-## Hi there 👋 My name is Akram, but I go by @FrenchTechLead on my social media  
+## Hi there 👋 My name is Akram, and I go by @FrenchTechLead on my social media  
 I'm a software engineer, a tech lead, a mentor, a blogger, a teacher and a nice human being, I guess 😄  
 I'm also a Freelance consultant, so don't hesitate to reach out for collaboration.
 
