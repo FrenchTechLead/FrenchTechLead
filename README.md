@@ -1,4 +1,4 @@
-![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FFrenchTechLead)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frenchtechlead)
 ## Hi there 👋 My name is Akram, and I go by @FrenchTechLead on my social media  
 I'm a software engineer, a tech lead, a mentor, a blogger, a teacher and a nice human being, I guess 😄  
 I'm also a Freelance consultant, so don't hesitate to reach out for collaboration.
@@ -31,7 +31,7 @@ I'm also a Freelance consultant, so don't hesitate to reach out for collaboratio
       height="32"
   /></a>
   <a
-    href="https://www.github.com/frenchtechlead"
+    href="https://www.twitter.com/frenchtechlead"
     target="_blank" 
     rel="noreferrer"
     ><img
@@ -97,7 +97,7 @@ frenchtechlead.com is my blog where I write about software engineering, tech lea
 [!["frenchtechlead.com"](img/screenshots/1.png)](https://frenchtechlead.com)
  
 ### HTTP-SNITCH
-HTTP-SNITCH is a mini HTTP server that prints out every requests that it receives, it's useful for debugging ann kinds of HTTP clients and reverse proxies/ load balancers.
+HTTP-SNITCH is a mini HTTP server that prints out every requests that it receives, it's useful for debugging all kinds of HTTP clients and reverse proxies/ load balancers.
 [!["HTTP-SNITCH"](img/screenshots/2.png)](https://github.com/FrenchTechLead/http-snitch)
 
 ### Robusta
