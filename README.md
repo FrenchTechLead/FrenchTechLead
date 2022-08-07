@@ -3,9 +3,8 @@
 I'm a software engineer, a tech lead, a mentor, a blogger, a teacher and a nice human being, I guess 😄  
 I'm also a Freelance consultant, so don't hesitate to reach out for collaboration.
 
-
 - 🔭 I’m currently working on a few projects, but I'm mostly focused on my [blog](https://frenchtechlead.com) and my freelance work.
-- 🌱 I’m currently learning creating content for my blog and my [YouTube channel.](https://www.youtube.com/channel/UCBTwp0DPgh6OICURH4OyAEQ)
+- 🌱 I’m currently learning creating content for my [blog](https://frenchtechlead.com) and my [YouTube channel.](https://www.youtube.com/channel/UCBTwp0DPgh6OICURH4OyAEQ)
 - 👯 I’m looking to collaborate on content creation, open source projects, and freelance work.
 - 💬 Ask me about anything, I'm happy to help, and I'm always open to new ideas.
 - 📫 How to reach me: [Twitter](https://twitter.com/FrenchTechLead), [LinkedIn](https://www.linkedin.com/in/techlead-java-angular/), [YouTube](https://www.youtube.com/channel/UCBTwp0DPgh6OICURH4OyAEQ), [Blog](https://frenchtechlead.com).
