@@ -100,7 +100,7 @@ I'm also a Freelance consultant, so don't hesitate to reach out for collaboratio
         <tr>
             <td>
                 <strong>bienparler.fr</strong><br />
-                bienparler.fr is a french 🇫🇷 website where you can entrer simple sentences and get alternave ones suited for a more formal context.
+                bienparler.fr is an IA based website where you can entrer simple sentences and get alternative ones suited for a more formal context.
             </td>
             <td>
                 <a href="https://bienparler.fr"><img src="img/screenshots/0.png" alt='"bienparler.fr"' /></a>
